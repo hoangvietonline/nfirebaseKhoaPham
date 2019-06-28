@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914186201045",
+    "firebase_url": "https://on-lai-phan-firebase.firebaseio.com",
+    "project_id": "on-lai-phan-firebase",
+    "storage_bucket": "on-lai-phan-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914186201045:android:7c1bb33b59702c8d",
+        "android_client_info": {
+          "package_name": "hoangviet.ndhv.nfirebasekhoapham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914186201045-7h8pndmdbe0c39n521sq2oo06dl19qu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3xOjvD4uraL-t1BQdfIKQ3MTso6GOb_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914186201045-7h8pndmdbe0c39n521sq2oo06dl19qu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
